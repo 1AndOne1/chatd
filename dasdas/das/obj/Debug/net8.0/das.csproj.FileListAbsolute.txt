@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\dasdas\das\bin\Debug\net8.0\das.exe
+C:\Users\user\Desktop\dasdas\das\bin\Debug\net8.0\das.deps.json
+C:\Users\user\Desktop\dasdas\das\bin\Debug\net8.0\das.runtimeconfig.json
+C:\Users\user\Desktop\dasdas\das\bin\Debug\net8.0\das.dll
+C:\Users\user\Desktop\dasdas\das\bin\Debug\net8.0\das.pdb
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.AssemblyInfo.cs
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.sourcelink.json
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.dll
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\refint\das.dll
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.pdb
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\das.genruntimeconfig.cache
+C:\Users\user\Desktop\dasdas\das\obj\Debug\net8.0\ref\das.dll
